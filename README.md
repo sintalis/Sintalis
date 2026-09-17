@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I am Sintalis
+
+About me
+- I am a software enginer
+- I am learning a bit reverse enginering
+- I code in c# mostly
 
 <!--
 **sintalis/Sintalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
